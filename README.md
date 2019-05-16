@@ -13,6 +13,8 @@ The vgg pretrained model is downloaded from https://s3.amazonaws.com/amdegroot-m
 
 The FlowNet's code and pretrained model are inspired and downloaded from https://github.com/NVIDIA/flownet2-pytorch.
 
+Please download the above 2 pretrained models and place them into 'models' directory.
+
 ## Others
 Some self-understanding about the paper's design (may be some are wrong, I will go deeper into those points later):
 * In training process, two frames are randomly selected with former one as key-frame and later one as non-key-frame.
