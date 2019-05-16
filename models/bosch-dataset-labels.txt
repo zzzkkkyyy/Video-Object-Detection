@@ -1,0 +1,14 @@
+None
+Green
+GreenStraightLeft
+GreenLeft
+RedLeft
+GreenStraightRight
+Red
+off
+GreenRight
+GreenStraight
+Yellow
+RedRight
+RedStraight
+RedStraightLeft
