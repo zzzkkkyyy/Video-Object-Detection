@@ -11,7 +11,7 @@ The RefineDet's code is inspired by https://github.com/lzx1413/PytorchSSD.
 
 The vgg pretrained model is downloaded from https://s3.amazonaws.com/amdegroot-models/vgg16_reducedfc.pth.
 
-The FlowNet's code and pretrained model is inspired and downloaded from https://github.com/NVIDIA/flownet2-pytorch.
+The FlowNet's code and pretrained model are inspired and downloaded from https://github.com/NVIDIA/flownet2-pytorch.
 
 ## Others
 Some self-understanding about the paper's design (may be some are wrong, I will go deeper into those points later):
